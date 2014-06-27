@@ -8,8 +8,22 @@ C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\bin\WebProject.
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+<<<<<<< HEAD
 C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\bin\WebProject.dll
 C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
 C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
 C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
 C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+=======
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\mscorlib.dll
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\normidna.nlp
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\normnfc.nlp
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\normnfd.nlp
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\normnfkc.nlp
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\bin\normnfkd.nlp
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+D:\SoftUni\Kurs-HTML\Test-Hello-Team\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+>>>>>>> 6364d1c97d9b354afa6e70f23090c94f1945e190

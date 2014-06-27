@@ -8,3 +8,8 @@ C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\bin\WebProject.
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
 C:\Me\tortGit-WebTrack-Project\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb
+C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\bin\WebProject.dll
+C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\bin\WebProject.pdb
+C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.csprojResolveAssemblyReference.cache
+C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.dll
+C:\Me\tortGit-testProject\Web-Track-Team-Project\WebProject\obj\Debug\WebProject.pdb

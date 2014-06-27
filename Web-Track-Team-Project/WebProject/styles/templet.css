@@ -1,0 +1,177 @@
+﻿body, header, h1, nav, ul, a {
+    /* background-color: #234465; */
+    margin: 0;
+    padding: 0;
+}
+
+/*   ---> --------------------------------- header   */
+
+
+header {                   /* tova e zapazeno */
+    background-color: #234465;
+    width: 100%;
+    /* height: 10%; 
+    position: absolute; */
+}
+
+header, 
+header h1, 
+header nav, 
+header ul, 
+header a {
+    color: #ffffff;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Arial, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+header {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 20;
+    margin: 0;
+    padding: 20px 0 0 0;
+    background-color: #234465;
+}
+
+section.container {
+    margin: auto 15px;
+}
+
+section h1 {
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    left: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+ul li {
+    display: inline-block;
+    margin: 2px;
+}
+
+    ul li a {
+        padding: 5px;
+    }
+
+nav {
+    text-align: right;
+}
+
+    nav .triangle a img {
+        margin: 2px 5px;
+        width: 10px;
+        height: 5px;
+        vertical-align: baseline;
+    }
+
+#nav-profile {
+    position: relative;
+    top: -53px;
+    right: 55px;
+}
+
+    #nav-profile ul li {
+        position: relative;
+        margin-left: 30px;
+        margin-right: 0px;
+    }
+
+    #nav-profile img.bell {
+        position: absolute;
+        top: -5px;
+        left: 10px;
+        width: 21px;
+        height: 21px;
+        padding: 4px;
+        vertical-align: bottom;
+    }
+
+    #nav-profile .fieldset {
+        width: 260px;
+        height: 30px;
+        margin-left: -30px;
+        padding: 2px 35px 2px 10px;
+        position: relative;
+        border: none;
+        border-radius: 5px;
+        background-color: #ffffff;
+        font-weight: normal;
+    }
+
+    #nav-profile .button {
+        width: 36px;
+        height: 34px;
+        position: absolute;
+        top: 0;
+        right: -2px;
+        background: url(../images/search-icon.png) no-repeat 8px center;
+        background-size: 17px 17px;
+        border-top: none;
+        border-right: none;
+        border-bottom: none;
+    }
+
+#nav-main {
+    position: relative;
+    top: -33px;
+    right: 48px;
+}
+
+    #nav-main ul li a {
+        padding: 3px 5px 3px 25px;
+    }
+
+/*   <--- ---------------------------------- header   */
+
+footer {
+    background-color: #234465;
+    width: 100%;
+    height: 20%;
+    margin-bottom: 0em;
+    margin-top: 0;
+    position: absolute;
+    bottom: 0px;
+    border-top-right-radius: 5em;
+}
+
+#mainContainer {
+    margin-top: 10%;
+    width: 100%;
+    height: 10%;
+    position: absolute;
+    background-color: #EEEEEE;
+}
+
+.upperleft {
+    background-color: #EEEEEE;
+    width: 60%;
+    height: 80%;
+    position: absolute;
+    border-bottom-left-radius: 5em;
+    margin-bottom: 0;
+}
+
+.upperright {
+    position: absolute;
+    right: 0%;
+    background-color: #EEEEEE;
+    width: 40%;
+    height: 90%;
+    margin-bottom: 0;
+}
+
+.bottom {
+    background-color: #234465;
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    border-top-right-radius: 5em;
+}
